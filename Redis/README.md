@@ -1,7 +1,8 @@
 # Redis Database Presentation
 
 ## Overview
-This repository contains a presentation on Redis, an open-source, in-memory data structure store. The content was originally compiled in 2020 and provides an overview of Redis.
+This repository contains a presentation on Redis, an open-source, in-memory data structure store. 
+The content was originally compiled in 2020 and provides an overview of Redis.
 
 ## Usage
 Educational purposes or as a quick reference for Redis concepts.
